@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ignis130913
-- 👀 I’m interested in marketing,software development,coding.
-- 🌱 I’m currently learning web design,java
-- 💞️ I’m looking to collaborate on projects,marketing
-- 📫 How to reach me: email:- sreeram132003@gmail.com
+- 👋 Hi, I’m Sreeram AM(Ignis)
+- 👀 Cursed with Machine learning , Web-development and Coding.
+- 🌱 I’m currently learning everything and dont know what I'm gonna do.
+- 💞️ I’m looking to collaborate on everything you do.
+- 📫 How to reach me: email:- sreeram132003@gmail.com or come to India.
 
 <!---
 Ignis130913/Ignis130913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
