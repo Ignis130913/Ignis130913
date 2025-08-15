@@ -19,7 +19,7 @@ Currently leading **Astraalis**, a company creating tools that disrupt the softw
 - 🎯 Mission-driven — aiming to create an AI-first future and transform global education with skill-based programs
 
 📫 **Reach me at:** `sreeram132003@gmail.com`  
-🌐 **Portfolio:** [https://astraalis.com](#) *(placeholder for your actual portfolio link)*  
+🌐 **Portfolio:** [https://astraalis.com](#) 
 
 ---
 
